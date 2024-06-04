@@ -1,4 +1,4 @@
-package dsa_java.arrays.TwoD_Array;
+//package dsa_java.arrays.TwoD_Array;
 
 import java.util.Scanner;
 
