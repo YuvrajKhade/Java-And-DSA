@@ -45,3 +45,6 @@ public class sortedSearch {
         sort(arr, key);
     }
 }
+//time complexity O(n+m) where n is row and m is col
+//time complexity O(n) when row is extremely large
+//time complexity O(m) when col is extremely large
