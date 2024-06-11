@@ -1,6 +1,6 @@
 package dsa_java.Bit_manipulation;
 
-public class ithBit {
+public class getithBit {
 
     public static void getIthBit(int num, int i){
 
