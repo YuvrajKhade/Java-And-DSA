@@ -1,6 +1,6 @@
-package dsa_java.recursion;
+//package dsa_java.recursion;
 
-public class faactorial {
+public class factorial {
 
     public static int fact(int num){
         int result=1;
