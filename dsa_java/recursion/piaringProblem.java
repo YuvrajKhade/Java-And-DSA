@@ -16,3 +16,4 @@ public class piaringProblem {
         System.out.println(pair(5));
     }
 }
+
